@@ -1,2 +1,2 @@
 # Machine-Learning
-It consists of basic Machine Learning projects
+Python codes for basic Machine Learning projects.
